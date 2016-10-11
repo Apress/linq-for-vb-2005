@@ -1,0 +1,15 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\XLINQ.Resources.resources
+obj\Debug\XLINQ.vbproj.GenerateResource.Cache
+bin\Debug\XLINQ.exe
+bin\Debug\XLINQ.pdb
+bin\Debug\XLINQ.xml
+bin\Debug\Microsoft.VisualBasic.LINQ.dll
+bin\Debug\System.ComponentModel.Data.dll
+bin\Debug\System.Data.DLinq.dll
+bin\Debug\System.Data.Extensions.dll
+bin\Debug\System.Query.dll
+bin\Debug\System.Xml.XLinq.dll
+obj\Debug\XLINQ.exe
+obj\Debug\XLINQ.xml
+obj\Debug\XLINQ.pdb

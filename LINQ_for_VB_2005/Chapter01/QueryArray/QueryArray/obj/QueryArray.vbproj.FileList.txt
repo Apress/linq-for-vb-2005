@@ -1,0 +1,16 @@
+bin\Debug\QueryArray.exe
+bin\Debug\QueryArray.pdb
+bin\Debug\QueryArray.xml
+bin\Debug\Microsoft.VisualBasic.LINQ.dll
+bin\Debug\ObjectDumper.dll
+bin\Debug\System.ComponentModel.Data.dll
+bin\Debug\System.Data.DLinq.dll
+bin\Debug\System.Data.Extensions.dll
+bin\Debug\System.Query.dll
+bin\Debug\System.Xml.XLinq.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\QueryArray.Resources.resources
+obj\Debug\QueryArray.vbproj.GenerateResource.Cache
+obj\Debug\QueryArray.exe
+obj\Debug\QueryArray.xml
+obj\Debug\QueryArray.pdb

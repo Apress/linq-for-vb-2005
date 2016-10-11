@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<people>
+	<!-- Person section -->
+	<person>
+		<id>1</id>
+		<firstname>Carl</firstname>
+		<lastname>Lewis</lastname>
+		<idrole>1</idrole>
+	</person>
+	<person>
+		<id>2</id>
+		<firstname>Tom</firstname>
+		<lastname>Gray</lastname>
+		<idrole>2</idrole>
+	</person>
+	<person>
+		<id>3</id>
+		<firstname>Mary</firstname>
+		<lastname>Grant</lastname>
+		<idrole>2</idrole>
+	</person>
+	<person>
+		<id>4</id>
+		<firstname>Fabio Claudio</firstname>
+		<lastname>Ferracchiati</lastname>
+		<idrole>1</idrole>
+	</person>
+	<!-- Role section -->
+	<role>
+		<id>1</id>
+		<roledescription>Manager</roledescription>
+	</role>
+	<role>
+		<id>2</id>
+		<roledescription>Developer</roledescription>
+	</role>
+	<!-- Salary section -->
+	<salary>
+		<idperson id="1" year="2004" salaryyear="10000,0000" />
+		<idperson id="1" year="2005" salaryyear="15000,0000" />
+	</salary>
+</people>

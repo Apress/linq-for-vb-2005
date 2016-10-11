@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LINQToSQL.Resources.resources
+obj\Debug\LINQToSQL.vbproj.GenerateResource.Cache
+bin\Debug\LINQToSQL.exe
+bin\Debug\LINQToSQL.pdb
+bin\Debug\LINQToSQL.xml
+bin\Debug\Microsoft.VisualBasic.LINQ.dll
+bin\Debug\System.ComponentModel.Data.dll
+bin\Debug\System.Data.DLinq.dll
+bin\Debug\System.Data.Extensions.dll
+bin\Debug\System.Query.dll
+bin\Debug\System.Xml.XLinq.dll
+obj\Debug\LINQToSQL.exe
+obj\Debug\LINQToSQL.xml
+obj\Debug\LINQToSQL.pdb
+bin\Debug\ObjectDumper.dll

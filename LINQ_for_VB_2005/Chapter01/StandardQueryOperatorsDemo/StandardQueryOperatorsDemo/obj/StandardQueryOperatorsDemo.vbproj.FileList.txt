@@ -1,0 +1,16 @@
+bin\Debug\StandardQueryOperatorsDemo.exe
+bin\Debug\StandardQueryOperatorsDemo.pdb
+bin\Debug\StandardQueryOperatorsDemo.xml
+bin\Debug\Microsoft.VisualBasic.LINQ.dll
+bin\Debug\System.ComponentModel.Data.dll
+bin\Debug\System.Data.DLinq.dll
+bin\Debug\System.Data.Extensions.dll
+bin\Debug\System.Query.dll
+bin\Debug\System.Xml.XLinq.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\StandardQueryOperatorsDemo.Resources.resources
+obj\Debug\StandardQueryOperatorsDemo.vbproj.GenerateResource.Cache
+obj\Debug\StandardQueryOperatorsDemo.exe
+obj\Debug\StandardQueryOperatorsDemo.xml
+obj\Debug\StandardQueryOperatorsDemo.pdb
+bin\Debug\ObjectDumper.dll

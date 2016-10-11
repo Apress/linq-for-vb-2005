@@ -1,0 +1,16 @@
+bin\Debug\LINQOverDataset.exe.config
+bin\Debug\LINQOverDataset.exe
+bin\Debug\LINQOverDataset.pdb
+bin\Debug\LINQOverDataset.xml
+bin\Debug\Microsoft.VisualBasic.LINQ.dll
+bin\Debug\System.ComponentModel.Data.dll
+bin\Debug\System.Data.DLinq.dll
+bin\Debug\System.Data.Extensions.dll
+bin\Debug\System.Query.dll
+bin\Debug\System.Xml.XLinq.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LINQOverDataset.Resources.resources
+obj\Debug\LINQOverDataset.vbproj.GenerateResource.Cache
+obj\Debug\LINQOverDataset.exe
+obj\Debug\LINQOverDataset.xml
+obj\Debug\LINQOverDataset.pdb
